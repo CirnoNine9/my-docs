@@ -3,7 +3,7 @@
 使用 MkDocs Material 构建的静态文档，通过 GitHub Actions 自动部署到 GitHub Pages。
 
 - [访问网站](https://cirnonine9.github.io/my-docs/)
-- 实践报告将在完成部署和验证后补充。
+- [个人实验报告](report/README.md)
 
 ## 本地预览
 
